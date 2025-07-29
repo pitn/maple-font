@@ -59,13 +59,13 @@
     "extra_args": []
   },
   "cn": {
-    "enable": false,
+    "enable": true,
     "with_nerd_font": true,
     "fix_meta_table": true,
     "clean_cache": false,
-    "narrow": false,
-    "use_hinted": false,
+    "narrow": true,
+    "use_hinted": ture,
     "use_static_base_font": true,
-    "scale_factor": 1.0
+    "scale_factor": 1.1
   }
 }
