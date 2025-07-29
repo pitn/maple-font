@@ -64,7 +64,7 @@
     "fix_meta_table": true,
     "clean_cache": false,
     "narrow": true,
-    "use_hinted": ture,
+    "use_hinted": true,
     "use_static_base_font": true,
     "scale_factor": 1.1
   }
